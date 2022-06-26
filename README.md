@@ -16,5 +16,8 @@ To get started:
 
 ## Description
 In the project, I deployed web servers for a highly available web app using CloudFormation. I wrote the code that creates and deploys the infrastructure and application.
+The deployed aPP url is "http://udaci-webap-sbr43ebnrysr-1791761387.us-east-1.elb.amazonaws.com/".
+Note: This url will not be available after reviewing and approving the project.
+
 The Cloud architecture diagram can be found in the project files with the file name "CloudArchitectureImage.jpeg" as the following:
 ![alt text](https://github.com/Mohamed-Alieldin/Deploy-a-high-availability-web-app-using-CloudFormation/blob/main/CloudArchitectureImage.jpeg)
